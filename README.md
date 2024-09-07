@@ -1,4 +1,4 @@
-## Timeline Pokémon: Sua jornada pelos jogos da franquia
+## Timeline Pokémon: Sua jornada pelos jogos da franquia - Imersão dev com Google Gemini
 
 ### Sobre o Projeto
 
